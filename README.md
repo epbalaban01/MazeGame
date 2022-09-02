@@ -15,7 +15,7 @@ Picturebox'daki olan duvarlar mouse üzerinden hareket ettirerek oyunu bitirebil
 
 - [ ] Puan sonuçları kaydedip paylaşılabilirdi.
 - [ ] Arayüz daha iyi bir şekilde geliştirebilirdi.
-
+- [ ] Oyun kazandığında level bölümleri eklenebilirdi.
 
 | <b>Ekran Görüntüleri</b> |
 |---|
