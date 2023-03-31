@@ -1,4 +1,6 @@
 # Maze Game (Labirent Korku Oyunu) 
+<p align="center"><img src="https://socialify.git.ci/epbalaban01/MazeGame/image?name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+
 Picturebox'daki olan duvarlar mouse üzerinden hareket ettirerek oyunu bitirebilirsiniz. Kaybettiğinizde resimde ki gibi siyah renk olacaktır. Oyun başladığında Açık mavi renkle başlayacaksınız. İyi eğlenceler. Programı geliştirmek istiyorsanız indirip geliştirebilirsiniz. Programın yapabildiklerini ve ileride yapabileceklerini aşağıda belirttim. Program Visual Studio 2017 ortamında C# programlama dili kullanarak geliştirilmiştir.
 
 <b>Desteklenen Diller</b>
